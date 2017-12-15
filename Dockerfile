@@ -1,7 +1,6 @@
 # this file is generated via https://github.com/docker-library/wordpress/blob/96a8124c468049e097beec9aa4008bda26671d7e/generate-stackbrew-library.sh
 
-Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
-             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+Maintainers: xx
 GitRepo: https://github.com/docker-library/wordpress.git
 
 Tags: 4.9.1-php5.6-apache, 4.9-php5.6-apache, 4-php5.6-apache, php5.6-apache, 4.9.1-php5.6, 4.9-php5.6, 4-php5.6, php5.6
